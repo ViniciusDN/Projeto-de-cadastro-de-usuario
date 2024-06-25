@@ -71,9 +71,3 @@ app.delete('/users/:id', async (req, res) => {
 })
 
 app.listen(3000)
-
-
-/* 
- usuario: vinicius
- senha: ibfznG10gJYSr6pr
-*/
